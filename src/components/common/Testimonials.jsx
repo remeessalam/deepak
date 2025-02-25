@@ -6,6 +6,7 @@ import {
   IoArrowBackCircleOutline,
   IoArrowForwardCircleOutline,
 } from "react-icons/io5";
+import { FaUserCircle } from "react-icons/fa";
 
 const reviews = [
   {
@@ -164,11 +165,13 @@ const Testimonials = () => {
               <p className="italic desc">{item.desc}</p>
               <div className="flex flex-col gap-2">
                 <div className="flex gap-2">
-                  <img
+                  <FaUserCircle className="h-[2rem] w-[2rem] " />
+
+                  {/* <img
                     src={item.profileImg}
                     alt={item.name}
                     className="h-[2rem] w-[2rem] rounded-full object-cover"
-                  />
+                  /> */}
                   <div className="flex flex-col h-full">
                     <p className="font-medium">{item.name}</p>
                     <p className="text-sm">{item.role}</p>

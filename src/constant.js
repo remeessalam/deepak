@@ -39,9 +39,13 @@ import web from "./assets/images/services/web.png";
 import web1 from "./assets/images/services/web.jpg";
 import app from "./assets/images/services/app.png";
 import app1 from "./assets/images/services/app.jpg";
-import custom from "./assets/images/services/custome.png";
-import custom1 from "./assets/images/services/custome.jpg";
 import data from "./assets/images/services/data.png";
+import vrar from "./assets/images/services/vrar.png";
+import block from "./assets/images/services/blockchain.png";
+import gamedevelopment from "./assets/images/services/gamedevelopment.png";
+import chatbot from "./assets/images/services/chatbotdevelopment.png";
+import aicalling from "./assets/images/services/aicallingagency.png";
+import custom1 from "./assets/images/services/custome.jpg";
 import data1 from "./assets/images/services/data.jpg";
 // porfolio image
 // Import all images at the top (Web Development)
@@ -312,7 +316,7 @@ export const allServices = [
       "We design and develop IoT solutions that enable businesses to collect, analyze, and act on data from connected devices. Our IoT services include smart device integration, data management, and predictive maintenance. Whether it's for smart homes, industrial automation, or healthcare, we create IoT ecosystems that improve efficiency, reduce costs, and enhance user experiences. Our solutions are scalable, secure, and built for future growth.",
   },
   {
-    icon: iot,
+    icon: vrar,
     img: iot1,
     id: 8,
     title: "Virtual Reality & Augmented Reality Development",
@@ -321,7 +325,7 @@ export const allServices = [
       "We create cutting-edge AR and VR applications that transform how users interact with digital content. From virtual training simulations to augmented reality marketing campaigns, our solutions are designed to captivate and engage. Using platforms like Unity and Unreal Engine, we develop immersive experiences for industries like gaming, education, and retail. Our AR/VR solutions are tailored to your business needs, ensuring a unique and impactful user experience.",
   },
   {
-    icon: iot,
+    icon: block,
     img: iot1,
     id: 9,
     title: "Blockchain Development",
@@ -330,7 +334,7 @@ export const allServices = [
       "We specialize in blockchain development, creating decentralized applications (dApps) and smart contracts for various industries. Our services include blockchain consulting, wallet development, and tokenization. Whether you need a solution for supply chain transparency, secure transactions, or digital identity management, we leverage blockchain technology to deliver secure, scalable, and efficient solutions. Our expertise ensures your blockchain implementation is robust and future-proof.",
   },
   {
-    icon: iot,
+    icon: gamedevelopment,
     img: iot1,
     id: 10,
     title: "Game Development",
@@ -339,7 +343,7 @@ export const allServices = [
       "We design and develop games that captivate audiences and deliver unforgettable experiences. From casual mobile games to complex console titles, our game development services cover all aspects of game creation, including concept design, programming, and testing. Using engines like Unity and Unreal, we create games with stunning graphics, smooth gameplay, and immersive storytelling. Whether you're an indie developer or a large studio, we bring your vision to life.",
   },
   {
-    icon: chat,
+    icon: chatbot,
     img: chat1,
     id: 11,
     title: "Chatbot Development",
@@ -348,7 +352,7 @@ export const allServices = [
       "Our chatbot development services create intelligent conversational agents that enhance customer interactions. Using natural language processing and machine learning, our chatbots handle inquiries, provide personalized recommendations, and automate routine tasks. Whether it's for customer service, e-commerce, or internal operations, we design chatbots that improve efficiency and user satisfaction. Our solutions integrate seamlessly with your existing systems and are scalable to meet growing demands.",
   },
   {
-    icon: iot,
+    icon: aicalling,
     img: iot1,
     id: 12,
     title: "AI Calling Agency",
