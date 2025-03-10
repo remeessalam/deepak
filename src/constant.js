@@ -261,7 +261,7 @@ export const allServices = [
     title: "UX/UI Design",
     desc: "Crafting intuitive and visually appealing designs to enhance user experiences and drive engagement.",
     detailContent:
-      "At [Company Name], we specialize in creating user-centric designs that combine aesthetics with functionality. Our UX/UI design process focuses on understanding user behavior, wireframing, prototyping, and testing to deliver seamless digital experiences. Whether it's a website, mobile app, or software interface, we ensure your design is responsive, accessible, and aligned with your brand identity. Our goal is to create designs that not only look great but also improve user satisfaction and drive conversions.",
+      "At WEBZIT MEDIA, we specialize in creating user-centric designs that combine aesthetics with functionality. Our UX/UI design process focuses on understanding user behavior, wireframing, prototyping, and testing to deliver seamless digital experiences. Whether it's a website, mobile app, or software interface, we ensure your design is responsive, accessible, and aligned with your brand identity. Our goal is to create designs that not only look great but also improve user satisfaction and drive conversions.",
   },
   {
     icon: app,
