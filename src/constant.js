@@ -27,7 +27,6 @@ import aboutUsGridImg5 from "./assets/images/aboutus-png5.png";
 
 import uiux from "./assets/images/services/uiux.png";
 import uiux1 from "./assets/images/services/uiux.jpg";
-import chat from "./assets/images/services/chat.png";
 import chat1 from "./assets/images/services/chat.jpg";
 import iot from "./assets/images/services/iot.png";
 import iot1 from "./assets/images/services/iot.jpg";
@@ -49,7 +48,6 @@ import gamedevelopment1 from "./assets/images/services/gamedevelopment.jpg";
 import chatbot from "./assets/images/services/chatbotdevelopment.png";
 import aicalling from "./assets/images/services/aicallingagency.png";
 import aicalling1 from "./assets/images/services/aicallingagency.jpg";
-import custom1 from "./assets/images/services/custome.jpg";
 import data1 from "./assets/images/services/data.jpg";
 // porfolio image
 // Import all images at the top (Web Development)
