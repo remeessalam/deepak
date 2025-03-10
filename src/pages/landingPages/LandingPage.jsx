@@ -145,10 +145,10 @@ export const LandingPage = ({ page }) => {
             Design & Revolution
           </h1>
           <p data-aos="fade-up" className="desc max-w-[50rem] mx-auto">
-            At [your-company-name], we understand that in today’s digital-first
-            world, your website is more than just an online presence—it’s the
-            heart of your brand’s identity, a vital business tool, and often the
-            first touchpoint for potential customers. In an era where first
+            At WEBZIT MEDIA, we understand that in today’s digital-first world,
+            your website is more than just an online presence—it’s the heart of
+            your brand’s identity, a vital business tool, and often the first
+            touchpoint for potential customers. In an era where first
             impressions matter more than ever, having a well-designed, fast, and
             responsive website is crucial to your business success. That’s why
             our website development services go beyond the basics—we aim to

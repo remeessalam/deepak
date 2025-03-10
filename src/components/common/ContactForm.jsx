@@ -39,7 +39,7 @@ const ContactForm = () => {
     // Construct the request payload
     var payload = {
       to: companyDetails.email,
-      subject: "New Contact Form Submission - [your-company-name]",
+      subject: "New Contact Form Submission - WEBZIT MEDIA",
       body: emailBody,
     };
 
@@ -74,9 +74,9 @@ const ContactForm = () => {
         <div className="gradient-rounded-text-box">Book an Appointment</div>
         <h2 className="heading-2 mt-5">Get in Touch</h2>
         <p className="desc">
-          Let [your-company-name] be the catalyst for your digital
-          transformation. Together, we can build solutions that are as dynamic
-          as your vision, helping your business reach new heights.
+          Let WEBZIT MEDIA be the catalyst for your digital transformation.
+          Together, we can build solutions that are as dynamic as your vision,
+          helping your business reach new heights.
         </p>
         <Link
           to={`tel:${companyDetails.phone}`}

@@ -74,9 +74,9 @@ const Contact = () => {
           <div data-aos="fade-right" className="flex flex-col gap-4">
             <h2 className="heading-2">Get In Touch With Us!</h2>
             <p className="desc">
-              Let <span className="font-semibold">[your-company-name]</span> be
-              the catalyst for your digital transformation. Together, we can
-              build solutions that are as dynamic as your vision, helping your
+              Let <span className="font-semibold">WEBZIT MEDIA</span> be the
+              catalyst for your digital transformation. Together, we can build
+              solutions that are as dynamic as your vision, helping your
               business reach new heights.
             </p>
             <img

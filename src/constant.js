@@ -41,10 +41,14 @@ import app from "./assets/images/services/app.png";
 import app1 from "./assets/images/services/app.jpg";
 import data from "./assets/images/services/data.png";
 import vrar from "./assets/images/services/vrar.png";
+import vrar1 from "./assets/images/services/vrar.jpg";
 import block from "./assets/images/services/blockchain.png";
+import block1 from "./assets/images/services/blockchain.jpg";
 import gamedevelopment from "./assets/images/services/gamedevelopment.png";
+import gamedevelopment1 from "./assets/images/services/gamedevelopment.jpg";
 import chatbot from "./assets/images/services/chatbotdevelopment.png";
 import aicalling from "./assets/images/services/aicallingagency.png";
+import aicalling1 from "./assets/images/services/aicallingagency.jpg";
 import custom1 from "./assets/images/services/custome.jpg";
 import data1 from "./assets/images/services/data.jpg";
 // porfolio image
@@ -317,7 +321,7 @@ export const allServices = [
   },
   {
     icon: vrar,
-    img: iot1,
+    img: vrar1,
     id: 8,
     title: "Virtual Reality & Augmented Reality Development",
     desc: "Immersive AR/VR experiences for training, entertainment, and customer engagement.",
@@ -326,7 +330,7 @@ export const allServices = [
   },
   {
     icon: block,
-    img: iot1,
+    img: block1,
     id: 9,
     title: "Blockchain Development",
     desc: "Secure and transparent blockchain solutions for decentralized applications and transactions.",
@@ -335,7 +339,7 @@ export const allServices = [
   },
   {
     icon: gamedevelopment,
-    img: iot1,
+    img: gamedevelopment1,
     id: 10,
     title: "Game Development",
     desc: "Engaging and interactive games for mobile, web, and console platforms.",
@@ -353,7 +357,7 @@ export const allServices = [
   },
   {
     icon: aicalling,
-    img: iot1,
+    img: aicalling1,
     id: 12,
     title: "AI Calling Agency",
     desc: "AI-driven calling solutions for customer outreach and support.",
@@ -374,7 +378,7 @@ export const whyChooseUsContent = [
   },
   {
     title: "Uncompromised Security & Reliability",
-    desc: "At [your-company-name], we prioritize data security and system reliability. Our solutions are built with robust security protocols to protect your business from cyber threats and ensure seamless operations.",
+    desc: "At WEBZIT MEDIA, we prioritize data security and system reliability. Our solutions are built with robust security protocols to protect your business from cyber threats and ensure seamless operations.",
   },
   {
     title: "A Partner for Growth",

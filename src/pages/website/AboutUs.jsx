@@ -104,7 +104,7 @@ const AboutUs = () => {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 data-aos="fade-up" className="heading-2">
-                Why Choose [your-company-name]?
+                Why Choose WEBZIT MEDIA?
               </h2>
             </div>
 

@@ -56,7 +56,7 @@ const Home = () => {
             <img
               src={aboutUsImg}
               className="object-cover max-h-[16rem] sm:max-h-[32rem] rounded-xl h-full"
-              alt="About [your-company-name]"
+              alt="About WEBZIT MEDIA"
             />
           </div>
           <div data-aos="fade-left" className="flex h-full flex-col gap-7">
@@ -65,10 +65,10 @@ const Home = () => {
                 Driving Innovation & Shaping the Future.
               </h2>
               <p className="desc">
-                <strong className="font-semibold">[your-company-name]</strong>{" "}
-                is committed to helping businesses thrive in a fast-paced
-                digital world. By leveraging cutting-edge technologies, we
-                deliver innovative solutions that enhance efficiency, streamline
+                <strong className="font-semibold">WEBZIT MEDIA</strong> is
+                committed to helping businesses thrive in a fast-paced digital
+                world. By leveraging cutting-edge technologies, we deliver
+                innovative solutions that enhance efficiency, streamline
                 operations, and drive growth.
               </p>
               <div>
@@ -120,7 +120,7 @@ const Home = () => {
             Your Trusted Partner in Digital Transformation
           </h1>
           <p className="desc max-w-[50rem] mx-auto text-white drop-shadow-2xl">
-            At <strong>[your-company-name]</strong>, we specialize in delivering
+            At <strong>WEBZIT MEDIA</strong>, we specialize in delivering
             cutting-edge technology solutions that help businesses thrive in the
             digital era. Whether it's AI-powered automation, web and mobile
             applications, or data-driven insights, our goal is to provide
